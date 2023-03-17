@@ -13,7 +13,7 @@
             "type": "package",
             "package": {
                 "name": "jenssegers/model",
-                "version": "dev-master",
+                "version": "1.0.0",
                 "source": {
                     "url": "https://github.com/Kyzegs/model.git",
                     "type": "git",
